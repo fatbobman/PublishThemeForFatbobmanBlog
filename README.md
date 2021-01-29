@@ -13,15 +13,19 @@ For an introduction to getting started with Publish, and how to write Plugin and
 其中包括了我自己写的几个Plugin:
 
 [TruncateHtmlDescription](https://github.com/fatbobman/PublishThemeForFatbobmanBlog/blob/main/Sources/FatbobmanBlog/Plugins/TruncateHtml.swift)
-为content生成指定字符数的HTML String，用于更详细的文章描述
+
+为content生成指定字符数的HTML String，用于更详细的文章描述.Generate HTML String for content with specified number of characters for more detailed article description
 
 [TagCount](https://github.com/fatbobman/PublishThemeForFatbobmanBlog/blob/main/Sources/FatbobmanBlog/Plugins/TagCount.swift)
-给每个Tag增加count属性，获取该Tag下的文章数
+
+给每个Tag增加count属性，获取该Tag下的文章数.Add a count property to each Tag to get the number of articles under that Tag.
 
 [Bilibili Video](https://github.com/fatbobman/PublishThemeForFatbobmanBlog/blob/main/Sources/FatbobmanBlog/Plugins/Bilibili.swift)
-一个modifier演示，创建一个显示bilibili视频的标签
+
+一个modifier演示，创建一个显示bilibili视频的标签.A modifier demo to create a tag that displays bilibili videos
 
 [RssPropertiesSetting](https://github.com/fatbobman/PublishThemeForFatbobmanBlog/blob/main/Sources/FatbobmanBlog/Plugins/RssPropertiesSetting.swift)
-为rss设定更多的配置
+
+为rss设定更多的配置.Set configurations for rss
 
 and more...
