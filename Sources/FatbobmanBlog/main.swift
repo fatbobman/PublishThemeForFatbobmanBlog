@@ -32,7 +32,7 @@ try FatbobmanBlog().publish(
         //使用ink modifier的plugins要在addMarkdonwFiles之前先加入.
         //需要注意modifier的添加顺序
         .installPlugin(.highlightJS()), //语法高亮
-        .addModifier(modifier: bilibili), //bilibili视频
+        .addModifier(modifier: bilibili,modifierName:"Bilibili Video"), //bilibili视频
         .copyResources(),
         .addMarkdownFiles(),
         .setSctionTitle(), //修改section 标题
