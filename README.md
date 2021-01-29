@@ -1,4 +1,4 @@
-# [Publish](https://github.com/johnsundell/publish) theme for [fatbobman.com](https://fatbobman.com) #
+# [Publish](https://github.com/johnsundell/publish) theme and plugins for [fatbobman.com](https://fatbobman.com) #
 
 这是我[个人博客站点](https://www.fatbobman.com)目前使用的Publish代码.
 分享的目的是让大家可以较快的上手Publish.
