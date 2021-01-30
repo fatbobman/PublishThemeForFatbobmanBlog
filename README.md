@@ -29,3 +29,7 @@ For an introduction to getting started with Publish, and how to write Plugin and
 为rss设定更多的配置.Set configurations for rss
 
 and more...
+
+My Publish Topic:
+
+[Publish - Getting Started](https://www.fatbobman.com/posts/publish-1/)
