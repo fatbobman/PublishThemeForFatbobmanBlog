@@ -32,4 +32,4 @@ and more...
 
 My Publish Topic:
 
-[Publish - Getting Started](https://www.fatbobman.com/posts/publish-1/)
+[Publish - Getting Started 用Publish创建博客（一）——入门](https://www.fatbobman.com/posts/publish-1/)
